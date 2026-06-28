@@ -1,48 +1,104 @@
-<h1 align="center">Hi 👋, I'm Lakshyaraj Purbia</h1>
-<h3 align="center">A passionate Fullstack developer from India !</h3>
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=lakshya2106&label=Profile%20views&color=0e75b6&style=flat" alt="lakshya2106" /> </p>
-
-
-
-</br>
-### 🚀 Languages & Technologies:
-
-![C++](https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
-![Python](https://img.shields.io/badge/Python-FFD43B.svg?style=for-the-badge&logo=python&logoColor=blue) 
-![Java](https://img.shields.io/badge/Java-ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-
-
-- 🔭 I’m currently working on [NESTIAL](https://nestial.vercel.app)
-
-- 🌱 I’m currently learning **MERN Stack**
-
-- 👯 I’m looking to collaborate on **C++ and Python Projects**
-
-- 🤝 I’m looking for help with **advanced programming topics**
-
-- 👨‍💻 All of my projects are available at [https://github.com/lakshya2106](https://github.com/lakshya2106)
-
-- 💬 Ask me about **C++ and C programming**
-
-- 📫 How to reach me **lakshyapurbia21@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/lakshyaraj-purbia-82636630b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/lakshyaraj-purbia-82636630b" height="30" width="40" /></a>
-<a href="https://instagram.com/lakshya_purbia06" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lakshya_purbia06" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.qt.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p>
-
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=lakshya2106&theme=solarized-dark&hide_border=false&include_all_commits=true&count_private=true" alt="lakshya2106" /> </br>
-</br>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=lakshya2106&theme=solarized-dark&hide_border=false" alt="lakshya2106" /> </br>
-</br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lakshya2106&theme=solarized-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="lakshya2106" /></br>
+  <img src="assets/banner.png" alt="Lakshyaraj Banner" width="100%" />
+  
+  <br/><br/>
+  
+  <img src="svg/typing.svg" alt="Typing Animation" />
 
+  <br/><br/>
+
+  <p align="center">
+    <b>Software Engineer | Founder of Nestial | DevOps & Cloud Native</b>
+  </p>
+  
+  <p align="center">
+    <a href="https://linkedin.com/in/lakshya2106"><img src="https://img.shields.io/badge/-LinkedIn-0a192f?style=for-the-badge&logo=linkedin&logoColor=00d2ff" /></a>
+    <a href="https://twitter.com/lakshya2106"><img src="https://img.shields.io/badge/-Twitter-0a192f?style=for-the-badge&logo=twitter&logoColor=00d2ff" /></a>
+    <a href="mailto:lakshya@nestial.com"><img src="https://img.shields.io/badge/-Email-0a192f?style=for-the-badge&logo=gmail&logoColor=00d2ff" /></a>
+  </p>
 </div>
 
-<p align = "center"><img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=lakshya2106&bg_color=000000&color=FFFF00&line=f78800&point=FFFFFF&hide_border=true" /></p>
+<img src="svg/divider.svg" width="100%" />
+
+### 👨‍💻 About Me
+
+Hi, I'm Lakshyaraj Purbia.
+
+I'm a Software Engineer focused on building products that solve real problems. My work spans the entire engineering stack—from low-level programming in C/C++ to scalable backend systems, modern React applications, Linux infrastructure, and cloud-native deployments.
+
+I'm the founder of **Nestial Technologies**, where I'm building multiple products and services from the ground up, focusing on scalability, performance, and developer experience. This journey has allowed me to wear many hats: software engineer, backend developer, DevOps engineer, system administrator, and product builder.
+
+I enjoy designing clean architectures, optimizing systems, and turning ideas into production-ready software. Beyond coding, I manage self-hosted infrastructure, work extensively with Docker and Linux, and continuously explore technologies like Go, Kubernetes, distributed systems, and modern DevOps practices.
+
+I'm looking for opportunities where I can contribute to ambitious engineering teams, solve meaningful technical challenges, and continue growing as a software engineer while building technology that makes a lasting impact.
+
+<img src="svg/divider.svg" width="100%" />
+
+### 🚀 Tech Stack
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="96">
+        <img src="https://techicons.dev/icons/go" width="48" height="48" alt="Go" />
+        <br>Go
+      </td>
+      <td align="center" width="96">
+        <img src="https://techicons.dev/icons/c" width="48" height="48" alt="C" />
+        <br>C/C++
+      </td>
+      <td align="center" width="96">
+        <img src="https://techicons.dev/icons/typescript" width="48" height="48" alt="TypeScript" />
+        <br>TypeScript
+      </td>
+      <td align="center" width="96">
+        <img src="https://techicons.dev/icons/react" width="48" height="48" alt="React" />
+        <br>React
+      </td>
+      <td align="center" width="96">
+        <img src="https://techicons.dev/icons/docker" width="48" height="48" alt="Docker" />
+        <br>Docker
+      </td>
+      <td align="center" width="96">
+        <img src="https://techicons.dev/icons/kubernetes" width="48" height="48" alt="Kubernetes" />
+        <br>Kubernetes
+      </td>
+      <td align="center" width="96">
+        <img src="https://techicons.dev/icons/linux" width="48" height="48" alt="Linux" />
+        <br>Linux
+      </td>
+    </tr>
+  </table>
+</div>
+
+<img src="svg/divider.svg" width="100%" />
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=lakshya2106&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lakshya2106&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top Languages" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=lakshya2106&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="Trophies" />
+</div>
+
+<br/>
+
+<div align="center">
+  <h4>🐍 My Contributions</h4>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lakshya2106/lakshya2106/output/dist/github-contribution-grid-snake-dark.svg?palette=github-dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lakshya2106/lakshya2106/output/dist/github-contribution-grid-snake.svg">
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/lakshya2106/lakshya2106/output/dist/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="assets/wave.svg" width="100%" />
+</div>

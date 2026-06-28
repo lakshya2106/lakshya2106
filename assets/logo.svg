@@ -1,0 +1,9 @@
+<svg width="200" height="200" viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="nestial" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#00d2ff"/>
+      <stop offset="100%" stop-color="#3a0ca3"/>
+    </linearGradient>
+  </defs>
+  <path d="M 40 160 L 40 40 L 70 40 L 130 120 L 130 40 L 160 40 L 160 160 L 130 160 L 70 80 L 70 160 Z" fill="url(#nestial)"/>
+</svg>
