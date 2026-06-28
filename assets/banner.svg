@@ -1,0 +1,44 @@
+<svg width="1000" height="300" viewBox="0 0 1000 300" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0a192f"/>
+      <stop offset="100%" stop-color="#020c1b"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00d2ff"/>
+      <stop offset="100%" stop-color="#3a0ca3"/>
+    </linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#00d2ff" stroke-opacity="0.1" stroke-width="1"/>
+    </pattern>
+  </defs>
+  
+  <rect width="100%" height="100%" fill="url(#bg)"/>
+  <rect width="100%" height="100%" fill="url(#grid)"/>
+  
+  <!-- Decorative elements -->
+  <circle cx="850" cy="50" r="150" fill="url(#accent)" opacity="0.15" filter="blur(20px)"/>
+  <circle cx="150" cy="250" r="100" fill="#00d2ff" opacity="0.1" filter="blur(15px)"/>
+  
+  <!-- Cyber lines -->
+  <path d="M 0 250 Q 250 150 500 250 T 1000 250 L 1000 300 L 0 300 Z" fill="#00d2ff" opacity="0.05"/>
+  <path d="M 0 270 Q 250 200 500 270 T 1000 270 L 1000 300 L 0 300 Z" fill="#00d2ff" opacity="0.1"/>
+  
+  <!-- Main Text -->
+  <g transform="translate(100, 150)">
+    <rect x="-10" y="-45" width="6" height="70" fill="url(#accent)" rx="3"/>
+    <text x="20" y="-10" font-family="-apple-system, sans-serif" font-size="54" font-weight="900" fill="#ffffff" letter-spacing="2">LAKSHYARAJ PURBIA</text>
+    <text x="25" y="30" font-family="-apple-system, sans-serif" font-size="20" font-weight="500" fill="#00d2ff" letter-spacing="4">SOFTWARE ENGINEER | NESTIAL</text>
+  </g>
+  
+  <!-- Floating tech nodes -->
+  <g transform="translate(850, 150)">
+    <circle cx="0" cy="-40" r="6" fill="#00d2ff"/>
+    <line x1="0" y1="-40" x2="40" y2="10" stroke="#00d2ff" stroke-opacity="0.5"/>
+    <circle cx="40" cy="10" r="4" fill="#3a0ca3"/>
+    <line x1="0" y1="-40" x2="-30" y2="-10" stroke="#00d2ff" stroke-opacity="0.5"/>
+    <circle cx="-30" cy="-10" r="8" fill="#00d2ff"/>
+    
+    <animateTransform attributeName="transform" type="translate" values="850,140; 850,160; 850,140" dur="4s" repeatCount="indefinite"/>
+  </g>
+</svg>

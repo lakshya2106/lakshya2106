@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/banner.png" alt="Lakshyaraj Banner" width="100%" />
+  <img src="assets/banner.svg" alt="Lakshyaraj Banner" width="100%" />
   
   <br/><br/>
   
@@ -37,38 +37,9 @@ I'm looking for opportunities where I can contribute to ambitious engineering te
 ### 🚀 Tech Stack
 
 <div align="center">
-  <table>
-    <tr>
-      <td align="center" width="96">
-        <img src="https://techicons.dev/icons/go" width="48" height="48" alt="Go" />
-        <br>Go
-      </td>
-      <td align="center" width="96">
-        <img src="https://techicons.dev/icons/c" width="48" height="48" alt="C" />
-        <br>C/C++
-      </td>
-      <td align="center" width="96">
-        <img src="https://techicons.dev/icons/typescript" width="48" height="48" alt="TypeScript" />
-        <br>TypeScript
-      </td>
-      <td align="center" width="96">
-        <img src="https://techicons.dev/icons/react" width="48" height="48" alt="React" />
-        <br>React
-      </td>
-      <td align="center" width="96">
-        <img src="https://techicons.dev/icons/docker" width="48" height="48" alt="Docker" />
-        <br>Docker
-      </td>
-      <td align="center" width="96">
-        <img src="https://techicons.dev/icons/kubernetes" width="48" height="48" alt="Kubernetes" />
-        <br>Kubernetes
-      </td>
-      <td align="center" width="96">
-        <img src="https://techicons.dev/icons/linux" width="48" height="48" alt="Linux" />
-        <br>Linux
-      </td>
-    </tr>
-  </table>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=go,c,cpp,ts,react,docker,kubernetes,linux&perline=8" alt="Tech Stack" />
+  </a>
 </div>
 
 <img src="svg/divider.svg" width="100%" />
@@ -84,6 +55,8 @@ I'm looking for opportunities where I can contribute to ambitious engineering te
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=lakshya2106&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="Trophies" />
+  <br/>
+  <i>(Note: Trophies load dynamically from GitHub stats)</i>
 </div>
 
 <br/>
@@ -95,6 +68,8 @@ I'm looking for opportunities where I can contribute to ambitious engineering te
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lakshya2106/lakshya2106/output/dist/github-contribution-grid-snake.svg">
     <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/lakshya2106/lakshya2106/output/dist/github-contribution-grid-snake.svg">
   </picture>
+  <br/>
+  <i>(Note: The snake will appear after you push to main and the GitHub Action runs)</i>
 </div>
 
 <br/>

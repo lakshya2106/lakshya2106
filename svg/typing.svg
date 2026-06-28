@@ -13,21 +13,21 @@
       fill: #00d2ff;
       animation: blink 1s step-end infinite;
     }
-    .t1 { clip-path: polygon(0 0, 0 100%, 0 100%, 0 0); animation: type 12s infinite; }
+    .t1 { clip-path: polygon(0 0, 0 100%, 0 100%, 0 0); animation: type 6s infinite; }
     
     @keyframes type {
       0%, 5% { clip-path: polygon(0 0, 0 100%, 0 100%, 0 0); }
-      15%, 28% { clip-path: polygon(0 0, 0 100%, 100% 100%, 100% 0); }
-      33.33%, 100% { clip-path: polygon(0 0, 0 100%, 0 100%, 0 0); }
+      20%, 80% { clip-path: polygon(0 0, 0 100%, 100% 100%, 100% 0); }
+      95%, 100% { clip-path: polygon(0 0, 0 100%, 0 100%, 0 0); }
     }
     
-    .g1 { animation: cycle 12s infinite 0s; }
-    .g2 { animation: cycle 12s infinite 4s; }
-    .g3 { animation: cycle 12s infinite 8s; }
+    .g1 { opacity: 0; animation: cycle 18s infinite 0s; }
+    .g2 { opacity: 0; animation: cycle 18s infinite 6s; }
+    .g3 { opacity: 0; animation: cycle 18s infinite 12s; }
     
     @keyframes cycle {
-      0%, 32.9% { opacity: 1; }
-      33%, 100% { opacity: 0; }
+      0%, 33.33% { opacity: 1; }
+      33.34%, 100% { opacity: 0; }
     }
 
     @keyframes blink {
