@@ -47,16 +47,7 @@ I'm looking for opportunities where I can contribute to ambitious engineering te
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lakshya2106&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lakshya2106&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top Languages" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=lakshya2106&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="Trophies" />
-  <br/>
-  <i>(Note: Trophies load dynamically from GitHub stats)</i>
+  <img src="github-metrics.svg" alt="GitHub Metrics" width="100%" />
 </div>
 
 <br/>
@@ -64,12 +55,10 @@ I'm looking for opportunities where I can contribute to ambitious engineering te
 <div align="center">
   <h4>🐍 My Contributions</h4>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lakshya2106/lakshya2106/output/dist/github-contribution-grid-snake-dark.svg?palette=github-dark">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lakshya2106/lakshya2106/output/dist/github-contribution-grid-snake.svg">
-    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/lakshya2106/lakshya2106/output/dist/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lakshya2106/lakshya2106/output/github-contribution-grid-snake-dark.svg?palette=github-dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lakshya2106/lakshya2106/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/lakshya2106/lakshya2106/output/github-contribution-grid-snake.svg">
   </picture>
-  <br/>
-  <i>(Note: The snake will appear after you push to main and the GitHub Action runs)</i>
 </div>
 
 <br/>
